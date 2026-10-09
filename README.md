@@ -4,6 +4,12 @@ This repository contains the reference implementation of **Wave-Guided Field-Ali
 
 ![Teaser image](data/teaser.png)
 
+## Replicability
+
+This code has received the Graphics replicability stamp.
+
+[![](https://www.replicabilitystamp.org/logo/Reproducibility-small.png)](http://www.replicabilitystamp.org#https-github-com-iota97-volume-filling-curve)
+
 ## Building
 
 The project is designed with minimal dependencies in mind, relying only on the C++17 standard library. This makes the build process straightforward.
